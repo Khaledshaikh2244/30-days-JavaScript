@@ -1,1 +1,2 @@
-# 30-days-JavaScript
+#JavaScript-Fundamentals
+
